@@ -1,5 +1,16 @@
 # AeroFarallonesBot - Voice Channel
 
-##About
+LOREM
 
-This proyect
+
+## Funcion 📱
+
+IPSUM
+
+## Meta 🏁
+
+AJA 
+
+## REQUERIMIENTOS ⚙
+
+AJU
